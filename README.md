@@ -1,4 +1,4 @@
 # MYREPO
 working on my GiT and GITHUB
-<br>
+<hr>
 commands pull push commit stagging
